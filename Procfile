@@ -1,0 +1,1 @@
+web: gunicorn cv_temlate.wsgi --log-file -
