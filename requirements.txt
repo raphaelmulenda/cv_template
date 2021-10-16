@@ -1,6 +1,6 @@
 altgraph==0.17
 appdirs==1.4.3
-apturl==0.5.2
+
 asgiref==3.3.4
 attrs==21.2.0
 auto-py-to-exe==2.9.0
